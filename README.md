@@ -1,7 +1,7 @@
 mChat
 ===============
 
-Dutch translation op the mChat extension by dmzx 0.0.3
+Dutch translation op the mChat extension by dmzx 0.0.7
 
 Installatie
 ===============
